@@ -7,3 +7,13 @@ The work done is based on [ur_modern_driver](https://github.com/ros-industrial/u
 # Contents
 - Test.py to allow the arm execute 3 command - Home, Up and a specific orientation through set_pose_target
 
+![TestUR5](https://user-images.githubusercontent.com/67405818/118764854-bc6bd000-b8ac-11eb-9b8a-90ff74ed786c.gif)
+
+
+
+
+
+
+
+
+
