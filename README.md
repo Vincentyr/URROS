@@ -1,5 +1,5 @@
 # Universal-Robot-ROS (Python)
-Working on using pythong to UR arm in ROS and control it remotely. The functions been explored are using rviz to provide planning visualisation in RViz and Gazebo and also collision detection.
+Working on using python to control UR arm in ROS. The functions been explored are using rviz to provide planning visualisation in RViz and Gazebo and also collision detection in actual deployment.
 
 # Acknowledgement
 The work done is based on [ur_modern_driver](https://github.com/ros-industrial/ur_modern_driver)
